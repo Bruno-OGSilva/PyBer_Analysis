@@ -27,7 +27,7 @@ This project was fully developed in Python using Pandas and Numpy, code can be c
 
 ## Results
 
-![](xxx.png)
+![](Assets/pyber_summary_df.png)
 
 The Rural city type has the lowest number of rides, drivers and total fare, but has the highest avarege fare por ride and average fare per driver. On the opposite,
 the Urban city tipe has the highest number of rides, drives and total fare, and the lowest avarege fare por ride and average fare per driver. The Suburban city
